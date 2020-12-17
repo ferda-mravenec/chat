@@ -1,4 +1,4 @@
-﻿## Welcome to PhpFreeChat client
+﻿## Welcome to PhpFreeChat client 1.7
 
 This repository contains things like js and css from the PHPFreeChat.
 
