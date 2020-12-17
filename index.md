@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to PhpFreeChat klient
 
-You can use the [editor on GitHub](https://github.com/ferda-mravenec/chat/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository contains things like js and css from the PHPFreeChat.
 
 ### Markdown
 
